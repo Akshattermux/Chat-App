@@ -18,7 +18,7 @@ Follow these steps to set up and run the project on your local machine.
 bash
 Copy
 Edit
-git clone https://github.com/your-username/chat-app.git
+git clone https://github.com/Akshattermux/Chat-App.git
 cd chat-app
 📦 2. Initialize Node Project
 bash
